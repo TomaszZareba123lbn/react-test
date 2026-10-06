@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Cheetah",
+    "continent": "Africa",
+    "averageSpeed": 100,
+    "weight": 50
+  },
+  {
+    "name": "Lion",
+    "continent": "Africa",
+    "averageSpeed": 60,
+    "weight": 190
+  },
+  {
+    "name": "Elephant",
+    "continent": "Africa",
+    "averageSpeed": 25,
+    "weight": 5000
+  },
+  {
+    "name": "Wolf",
+    "continent": "Europe",
+    "averageSpeed": 50,
+    "weight": 40
+  },
+  {
+    "name": "Kangaroo",
+    "continent": "Australia",
+    "averageSpeed": 40,
+    "weight": 70
+  }
+]
